@@ -4,7 +4,7 @@ class JDBCDemoMain{
 		
 		System.out.println("Hello Codebegun::: lllll GITGUB");
 		
-		System.out.println("Hello Codebegun::: GITGUB"+"  SURYA");
+		System.out.println("Hello Codebegun::: GITGUB "+"  SURYA");
 		
 		
 		
